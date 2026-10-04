@@ -43,3 +43,5 @@ $ python cb_sync.py --dry-run
 ```
 
 I use this with a weekly cron job and occasionally `sqlite3` to poke at trends.
+
+<!-- updated: 2026-10-04 -->
